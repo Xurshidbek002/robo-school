@@ -23,13 +23,13 @@ function Header() {
           ROBO.SCHOOL
         </a>
         <nav className="hidden md:flex gap-5 items-center">
-          <a href="" className="">
+          <a href="#about" className="">
             {t("header.nav1")}
           </a>
-          <a href="" className="">
+          <a href="#coaches" className="">
             {t("header.nav2")}
           </a>
-          <a href="" className="">
+          <a href="#pricing" className="">
             {t("header.nav3")}
           </a>
           <select
@@ -53,7 +53,7 @@ function Header() {
             <span className="flex md:hidden bg-[#19132e] p-2 rounded-xl border-t border-l border-r border-[#ffffff34]">
               <BsFillTelephoneFill size={23} />
             </span>
-            <span className="hidden md:block">+7 800 000 11 22</span>
+            <span className="hidden md:block text-xl font-bold">+7 800 000 11 22</span>
           </a>
           <button
             onClick={toggleModal}
@@ -82,13 +82,13 @@ function Header() {
           className="bg-[#141024] md:hidden h-[100vh] flex flex-col gap-5 text-center py-5"
         >
           <nav className="flex flex-col items-center gap-5 text-center">
-            <a href="" className=" text-3xl font-bold text-white">
+            <a href="#about" className=" text-3xl font-bold text-white">
               {t("header.nav1")}
             </a>
-            <a href="" className=" text-3xl font-bold text-white">
+            <a href="#coaches" className=" text-3xl font-bold text-white">
               {t("header.nav2")}
             </a>
-            <a href="" className=" text-3xl font-bold text-white">
+            <a href="#pricing" className=" text-3xl font-bold text-white">
               {t("header.nav3")}
             </a>
             <select

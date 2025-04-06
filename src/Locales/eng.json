@@ -3,5 +3,9 @@
     "nav1": "About the School",
     "nav2": "Coaches",
     "nav3": "Pricing"
+  },
+  "home": {
+    "text": "Advanced training courses in robotics for primary school teachers",
+    "link": "Sign up for the course"
   }
 }

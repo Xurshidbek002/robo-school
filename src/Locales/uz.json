@@ -3,5 +3,9 @@
     "nav1": "Maktab haqida",
     "nav2": "Trenerlar",
     "nav3": "Narxlar"
+  },
+  "home": {
+    "text": "Boshlang‘ich maktab o‘qituvchilari uchun robototexnika bo‘yicha malaka oshirish kurslari",
+    "link": "Kursga yozilish"
   }
 }
