@@ -18,8 +18,8 @@ function Home() {
             </a>
           </div>
           <div data-aos="fade-up" className="relative flex justify-center md:justify-start">
-            <img src={img} alt="" className="w-[80%]"/>
-            <a href="#form" className="block md:hidden absolute bottom-0 left-[50%] translate-x-[-50%] bg-red-500 w-[80%] py-5 text-xl font-medium rounded-lg text-center"> 
+            <img src={img} alt="" className=" w-[80%]"/>
+            <a href="#form" className="block md:hidden absolute bottom-0 left-[50%] translate-x-[-50%] bg-red-500 w-[80%] py-5 text-xl font-bold text-white rounded-lg text-center"> 
               {t("home.link")}
             </a>
           </div>

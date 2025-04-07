@@ -7,5 +7,12 @@
   "home": {
     "text": "Boshlang‘ich maktab o‘qituvchilari uchun robototexnika bo‘yicha malaka oshirish kurslari",
     "link": "Kursga yozilish"
+  },
+  "info": {
+    "title": " – robototexnika va dasturlash sohasida pedagogik kadrlar zaxirasini shakllantirishga mo‘ljallangan muassasa",
+    "text1": "Robototexnika bo‘yicha turli yo‘nalishlardagi o‘quv-uslubiy majmualar",
+    "text2": "Robototexnika joriy etilgan maktablar soni",
+    "text3": "Malaka oshirish kurslarini tamomlagan o‘qituvchilar",
+    "text4": "O‘z markazlarimiz asosida ta’lim olgan bolalar"
   }
 }
