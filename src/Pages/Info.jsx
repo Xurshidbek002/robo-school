@@ -41,7 +41,7 @@ function Info() {
   };
 
   return (
-    <div className="py-17">
+    <div id="about" className="py-17">
       <div className="container">
         <h2 className="text-2xl md:text-4xl mb-10 max-w-[700px]">
           <span className="font-bold">Robo School</span>

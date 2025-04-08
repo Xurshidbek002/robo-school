@@ -36,7 +36,7 @@ function Trainers() {
   };
   const { t } = useTranslation();
   return (
-    <div>
+    <div id="coaches" className="mt-5">
       <div className="px-5 container">
         <h1 className="text-[#141024] font-[600] text-3xl md:text-4xl lg:text-[50px]">
           {t("trainer.top")}

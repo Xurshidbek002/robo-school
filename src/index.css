@@ -6,6 +6,10 @@
   margin: 0 auto;
   padding: 0 20px;
 }
+
+*{
+  scroll-behavior: smooth;
+}
 @media (max-width: 540px) {
   .container {
     width: 100%;

@@ -41,5 +41,42 @@
     "desc1": "1995-yil sentabr — 2000-yil iyun. Sankt-Peterburg Politechnik universiteti. Fakultet: Kompyuter fanlari va texnologiyalari. Mutaxassislik: Matematika va kompyuter fanlari. Ta'lim shakli: Kunduzgi",
     "desc2": "Kurslar va treninglar",
     "desc3": "2020-yil noyabr — 2021-yil fevral. Qo‘shimcha ta’lim dasturi: “3D Modellashtirish”. O‘tkazilgan joy: “Politekh” qo‘shimcha ta’lim instituti"
+  },
+  "pricing": {
+    "title": "Kerakli paketni tanlang",
+    "packages": {
+      "pro": {
+        "title": "— PRO —",
+        "price": "20.000 so'm",
+        "description": "Robototexnika va dasturlash bo'yicha o'quv majmuasi",
+        "button": "Ariza qoldirish"
+      },
+      "robo": {
+        "title": "— ROBO —",
+        "price": "15.000 so'm",
+        "description": "Robototexnika bo'yicha o'quv majmuasi",
+        "button": "Ariza qoldirish"
+      },
+      "prog": {
+        "title": "— PROG —",
+        "price": "10.000 so'm",
+        "description": "Dasturlash bo'yicha o'quv majmuasi",
+        "button": "Ariza qoldirish"
+      }
+    },
+    "discount": {
+      "title": "Kursga 10% chegirma bilan yoziling",
+      "valid": "Aksiya 2022 yil 10 martgacha amal qiladi"
+    },
+    "form": {
+      "name": "Ism",
+      "phone": "Telefon",
+      "email": "E-mail",
+      "submit": "Ariza yuborish",
+      "success": "Arizangiz yuborildi!",
+      "successMessage": "Arizangiz muvaffaqiyatli yuborildi!",
+      "error": "Xato",
+      "errorMessage": "Arizangizni yuborib bo'lmadi. Iltimos, qayta urinib ko'ring."
+    }
   }
 }
