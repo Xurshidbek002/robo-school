@@ -81,7 +81,7 @@ function Header() {
           transition={{ duration: 0.3 }}
           className="bg-[#141024] md:hidden h-[100vh] flex flex-col gap-5 text-center py-5"
         >
-          <nav className="flex flex-col items-center gap-5 text-center">
+          <nav className="flex mt-50 flex-col items-center gap-7 text-center">
             <a href="#about" className=" text-3xl font-bold text-white">
               {t("header.nav1")}
             </a>

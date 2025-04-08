@@ -14,5 +14,32 @@
     "text2": "Robototexnika joriy etilgan maktablar soni",
     "text3": "Malaka oshirish kurslarini tamomlagan o‘qituvchilar",
     "text4": "O‘z markazlarimiz asosida ta’lim olgan bolalar"
+  },
+  "about": {
+    "title": "Kursdan so'ng nimalarga ega bo'lasiz",
+    "text1": "Guvohnoma",
+    "text2": "Bilimlar",
+    "text3": "Amaliyot",
+    "desc1": "Ta'lim muassasalarida 6-12 yoshli bolalarga robototexnikadan dars berish huquqini beradi",
+    "desc2": "Robototexnika va dasturlash bo'yicha o'quv-uslubiy majmualarni ishlab chiqish asoslari bo'yicha",
+    "desc3": "R:ED LAB bazasida robototexnikani o'qitish bo'yicha amaliyot o'tash imkoniyati (oflayn yoki onlayn formatda)",
+    "info": "Bo'sh o'rinlar mavjud bo'lganda"
+  },
+  "trainer": {
+    "top": "Professional trenerlar",
+    "name1": "Irina Laym",
+    "name2": "Marina Orlova",
+    "name3": "Maksim Petrov",
+    "name4": "Konstantin Nazarov",
+    "name5": "Liza Vesenniya",
+    "text": "robototexnika o‘qituvchisi",
+    "btn": "Batafsil",
+    "btn2": "Yopish",
+    "betwen1": "Ta'lim",
+    "betwen2": "Ish tajribasi",
+    "betwen3": "Mukofotlar",
+    "desc1": "1995-yil sentabr — 2000-yil iyun. Sankt-Peterburg Politechnik universiteti. Fakultet: Kompyuter fanlari va texnologiyalari. Mutaxassislik: Matematika va kompyuter fanlari. Ta'lim shakli: Kunduzgi",
+    "desc2": "Kurslar va treninglar",
+    "desc3": "2020-yil noyabr — 2021-yil fevral. Qo‘shimcha ta’lim dasturi: “3D Modellashtirish”. O‘tkazilgan joy: “Politekh” qo‘shimcha ta’lim instituti"
   }
 }

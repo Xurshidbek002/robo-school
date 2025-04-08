@@ -14,5 +14,32 @@
     "text2": "Schools where robotics has been implemented",
     "text3": "Teachers who have completed professional development courses",
     "text4": "Children trained at our own centers"
+  },
+  "about": {
+    "title": "What you will get after the course",
+    "text1": "Certificate",
+    "text2": "Knowledge",
+    "text3": "Practice",
+    "desc1": "Granting the right to teach robotics to children aged 6-12 in educational institutions",
+    "desc2": "On the basics of developing teaching and methodological materials for robotics and programming",
+    "desc3": "Opportunity to undergo teaching practice in robotics at R:ED LAB (in offline or online format)",
+    "info": "Subject to availability"
+  },
+  "trainer": {
+    "top": "Professional Trainers",
+    "name1": "Irina Lime",
+    "name2": "Marina Orlova",
+    "name3": "Maxim Petrov",
+    "name4": "Konstantin Nazarov",
+    "name5": "Liza Spring",
+    "text": "robotics instructor",
+    "btn": "More details",
+    "btn2": "Close",
+    "betwen1": "Education",
+    "betwen2": "Work experience",
+    "betwen3": "Awards",
+    "desc1": "September 1995 — June 2000. Peter the Great St. Petersburg Polytechnic University. Faculty: Computer Science and Technology. Major: Mathematics and Computer Science. Study mode: Full-time",
+    "desc2": "Courses and trainings",
+    "desc3": "November 2020 — February 2021. Additional education program: '3D Modeling'. Location: Institute of Continuing Education 'Polytech'"
   }
 }
