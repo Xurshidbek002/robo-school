@@ -79,9 +79,9 @@ function Header() {
           animate={{ opacity: 1, x: 0 }}
           exit={{ opacity: 0, x: -100 }}
           transition={{ duration: 0.3 }}
-          className="bg-[#141024] md:hidden h-[100vh] flex flex-col gap-5 text-center py-5"
+          className="bg-[#141024] md:hidden h-[30vh] flex flex-col gap-5 text-center py-5"
         >
-          <nav className="flex mt-50 flex-col items-center gap-7 text-center">
+          <nav className="flex mt-10 flex-col items-center gap-7 text-center">
             <a onClick={toggleModal} href="#about" className=" text-3xl font-bold text-white">
               {t("header.nav1")}
             </a>
