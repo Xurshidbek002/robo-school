@@ -46,6 +46,8 @@
   "pricing": {
     "title": "Kerakli paketni tanlang",
     "packages": {
+      "notSelected": "Paketni tanlang",
+      "package": "Paket",
       "pro": {
         "title": "— PRO —",
         "price": "20.000 so'm",

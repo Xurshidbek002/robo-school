@@ -61,6 +61,8 @@
   "pricing": {
     "title": "Выберите нужный пакет",
     "packages": {
+      "notSelected":"Выберите пакет",
+      "package": "Пакет",
       "pro": {
         "title": "— PRO —",
         "price": "20.000 ₽",

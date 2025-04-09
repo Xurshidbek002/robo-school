@@ -46,6 +46,8 @@
   "pricing": {
     "title": "Choose your package",
     "packages": {
+      "notSelected": "Select a package",
+      "package": "Package",
       "pro": {
         "title": "— PRO —",
         "price": "20.000 RUB",
