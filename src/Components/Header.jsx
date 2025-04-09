@@ -17,12 +17,12 @@ function Header() {
   };
 
   return (
-    <header className="bg-[#141024] py-6">
+    <header className="bg-[#141024] overflow-x-hidden py-6">
       <div className="container flex justify-between items-center text-white">
-        <a href="#" className="text-2xl font-bold">
+        <a data-aos="zoom-in" data-aos-duration="700" href="#" className="text-2xl font-bold">
           ROBO.SCHOOL
         </a>
-        <nav className="hidden md:flex gap-5 items-center">
+        <nav data-aos="zoom-out" className="hidden  md:flex gap-5 items-center">
           <a href="#about" className="">
             {t("header.nav1")}
           </a>
@@ -49,13 +49,14 @@ function Header() {
           </select>
         </nav>
         <div className="flex items-center gap-5">
-          <a href="tel:+78000001122" className="">
+          <a data-aos="zoom-in" data-aos-duration="700" href="tel:+78000001122" className="">
             <span className="flex md:hidden bg-[#19132e] p-2 rounded-xl border-t border-l border-r border-[#ffffff34]">
               <BsFillTelephoneFill size={23} />
             </span>
             <span className="hidden md:block text-xl font-bold">+7 800 000 11 22</span>
           </a>
           <button
+          data-aos="zoom-in" data-aos-duration="700"
             onClick={toggleModal}
             className="md:hidden bg-[#19132e] p-2 rounded-xl border-t border-l border-r border-[#ffffff34]"
           >

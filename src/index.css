@@ -6,6 +6,9 @@
   margin: 0 auto;
   padding: 0 20px;
 }
+body{
+  overflow-x: hidden;
+}
 
 *{
   scroll-behavior: smooth;
